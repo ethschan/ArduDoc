@@ -1,7 +1,7 @@
 # ArduDoc: Automated Documentation Generator for Arduino Sketches
 
 <p align="center">
-  <img src="./images/ardudoc.png" alt="ArduDoc" width="45%">
+  <img src="./images/ardudoc.png" alt="ArduDoc" width="100%">
 </p>
 <p align="center"><i>Automated documentation generation for Arduino sketches</i></p>
 
